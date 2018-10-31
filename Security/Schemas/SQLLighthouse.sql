@@ -1,0 +1,3 @@
+CREATE SCHEMA [SQLLighthouse]
+AUTHORIZATION [dbo]
+GO

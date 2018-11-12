@@ -3,4 +3,5 @@ GO
 SET ANSI_NULLS ON
 GO
 CREATE PROCEDURE [dbo].[TestProc2] AS SELECT * FROM dbo.dept d;
+SELECT * FROM dbo.emp e;
 GO

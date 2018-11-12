@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>Cyrillic_General_CI_AS</Collation>
+  <ServerVersion>Sql2017</ServerVersion>
+  <ServerName>192.168.0.158\MSSQLSERVER2017</ServerName>
+  <DatabaseName>Test</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>

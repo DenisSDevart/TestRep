@@ -2,6 +2,5 @@ SET QUOTED_IDENTIFIER ON
 GO
 SET ANSI_NULLS ON
 GO
-CREATE PROCEDURE [dbo].[TestProc] AS SELECT * FROM ApexSQL_SourceControl_DatabaseLog asscdl;
-select 2;
+CREATE PROCEDURE [dbo].[TestProc] AS SELECT 3;
 GO

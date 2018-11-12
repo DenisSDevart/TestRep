@@ -3,5 +3,5 @@
   <ServerVersion>Sql2017</ServerVersion>
   <ServerName>192.168.0.158\MSSQLSERVER2017</ServerName>
   <DatabaseName>Test</DatabaseName>
-  <DatabaseInformation Version="1" />
+  <DatabaseInformation Version="2" />
 </DatabaseSettings>

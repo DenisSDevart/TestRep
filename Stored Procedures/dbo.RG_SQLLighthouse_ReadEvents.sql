@@ -29,5 +29,5 @@ GO
  *****************************************************************************************************************/
 CREATE PROCEDURE [dbo].[RG_SQLLighthouse_ReadEvents]
 AS
-	SELECT * FROM RedGate.SQLLighthouse.DDL_Events
+	SELECT * FROM dbo.dept
 GO
